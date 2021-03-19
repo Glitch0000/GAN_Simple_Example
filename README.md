@@ -8,3 +8,5 @@ The input is just nosie:
 The output are generated images:
 
 ![gan1](https://user-images.githubusercontent.com/64538407/111749750-e6981600-889a-11eb-9b89-c283a1607b09.png)
+
+The network is not producing high quality data. We will solve this proplem in the next repositories.
